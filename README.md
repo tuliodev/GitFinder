@@ -1,6 +1,5 @@
 # Python GitFinder
 
-
 GitFinder made in python :snake:
 
 # Author
