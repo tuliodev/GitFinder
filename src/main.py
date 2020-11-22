@@ -43,7 +43,7 @@ def returnGithubInfos(user, option):
             if(not githubUserContent['name']):
                 print('Porfavor insira um usuário valido')
             else:
-                print(f'Usuário não foi salvo, informações:\n {serializedUser} \n \n \n \n \n') # ARRUMAR TA DANDO ERRO        
+                print(f'Usuário não foi salvo, informações:\n {serializedUser} \n \n \n \n \n')    
         
             
     else:
